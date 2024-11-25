@@ -1,0 +1,44 @@
+Drill report for sodimm-ddr5-tester.kicad_pcb
+Created on 10-11-2024 9.21.09 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  In3.Cu                    in3
+    L5 :  In4.Cu                    in4
+    L6 :  In5.Cu                    in5
+    L7 :  In6.Cu                    in6
+    L8 :  In7.Cu                    in7
+    L9 :  In8.Cu                    in8
+    L10:  In9.Cu                    in9
+    L11:  In10.Cu                   in10
+    L12:  B.Cu                      back
+
+
+Drill file 'sodimm-ddr5-tester-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.100mm  0.0039"  (1877 holes)
+    T2  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T3  0.889mm  0.0350"  (14 holes)
+    T4  1.000mm  0.0394"  (3 holes)  (with 3 slots)
+    T5  1.016mm  0.0400"  (4 holes)
+    T6  1.250mm  0.0492"  (3 holes)  (with 3 slots)
+    T7  1.600mm  0.0630"  (1 hole)
+    T8  1.600mm  0.0630"  (1 hole)
+    T9  3.000mm  0.1181"  (2 holes)
+
+    Total plated holes count 1909
+
+
+Drill file 'sodimm-ddr5-tester-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (2 holes)
+    T2  1.000mm  0.0394"  (2 holes)  (with 1 slot)
+    T3  3.000mm  0.1181"  (2 holes)
+    T4  3.250mm  0.1280"  (2 holes)
+
+    Total unplated holes count 8

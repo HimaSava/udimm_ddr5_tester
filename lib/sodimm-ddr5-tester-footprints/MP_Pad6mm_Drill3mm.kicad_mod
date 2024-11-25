@@ -1,0 +1,25 @@
+(footprint "MP_Pad6mm_Drill3mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp c8a2ae74-c6d4-4de9-85e4-46068f1baaf7)
+  )
+  (fp_text value "MP_Pad6mm_Drill3mm" (at 0 3.9) (layer "F.Fab")
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp 5e91574d-40d1-41ff-a02d-b16b276a20e5)
+  )
+  (fp_text user "License: Apache-2.0" (at -0.178 8.425) (layer "F.Fab") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp 63d7abfe-1fcc-4293-bd36-74f16c4c8033)
+  )
+  (fp_text user "${REFERENCE}" (at -0.178 6.025) (layer "F.Fab") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp a1373403-9ade-4431-8a75-c329db8913e0)
+  )
+  (fp_text user "Author: Antmicro" (at -0.178 7.225) (layer "F.Fab") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp c81d7727-9108-4779-af03-be571ef6fac5)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 6 6) (drill 3) (layers "*.Cu" "*.Mask") (tstamp c41e01ad-b491-4532-8f51-8fa5cd4f0e56))
+)

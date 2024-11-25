@@ -1,0 +1,18 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 98522cc1-8983-4165-bec8-4ffeacc1f97e)
+
+  (paper "A3")
+
+  (title_block
+    (title "SO-DIMM DDR5 Tester")
+    (date "2024-04-23")
+    (rev "1.2.0")
+    (comment 1 "www.antmicro.com")
+    (comment 2 "Antmicro Ltd")
+  )
+
+  (lib_symbols
+  )
+
+)
